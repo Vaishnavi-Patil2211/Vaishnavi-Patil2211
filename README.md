@@ -1,6 +1,6 @@
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [vaishnavi!](https://vaishnaviradheshyampatil.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [vaishnavi!](https://Vaishnavi-Patil2211.github.io) 
 
 <a href="https://www.linkedin.com/in/vaishnavi-patil-8a7086210/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="vaishnavi" height="50" width="50"/></a>
 
@@ -15,8 +15,8 @@
 <br />
 
 ![vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi&theme=github_dark&show_icons=true)
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaviradheshyampatil&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Patil2211&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviradheshyampatil&show_icons=true&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Patil2211&show_icons=true&theme=tokyonight&layout=compact)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vaishnaviradheshyampatil)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vaishnavi-Patil2211)
