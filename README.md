@@ -25,5 +25,5 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vaishnavi-Patil2211.Vaishnavi-Patil2211)
 <!-- theme tokyonight
- ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight&hide_border=true)
-<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">-->
+ ![vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=vaishnavi_2211&show_icons=true&theme=tokyonight&hide_border=true)
+<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi_2211&theme=tokyonight&count_private=true&line_height=52">-->
