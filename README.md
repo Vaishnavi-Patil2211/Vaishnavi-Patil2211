@@ -21,7 +21,10 @@
   
 </p>
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Patil2211&show_icons=true&theme=tokyonight&layout=compact)
+
+[![@vaishnavipatil's Holopin board](https://holopin.me/vaishnavipatil)](https://holopin.io/@vaishnavipatil)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vaishnavi-Patil2211.Vaishnavi-Patil2211)
 <!-- theme tokyonight
